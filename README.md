@@ -2,18 +2,18 @@
 
 This repository is currently a placeholder, reserved for a future boxing-related project. No source code or application has been added yet.
 
-## အကျဉ်း — ဒီ project က ဘာလဲ? (At a glance)
+## At a glance — what is this project?
 
 | | |
 | --- | --- |
 | **Project** | Boxing |
-| **အမျိုးအစား** | Placeholder repository — နောင်မှ လုပ်မယ့် boxing project အတွက် သီးသန့်ထားထားတာ |
-| **ဘာလုပ်ပေးလဲ** | လက်ရှိမှာ source code မရှိသေးပါ။ ရည်ရွယ်ချက် / stack / status တွေကို TODO အနေနဲ့ မှတ်ထားပါတယ်။ |
-| **Tech** | မသတ်မှတ်ရသေးပါ (_to be filled in_) |
-| **Ports** | မရှိသေးပါ |
-| **အခြေအနေ** | Placeholder / မစရသေးပါ။ README ထဲက ပုံက သရုပ်ဖော်ပုံ (illustration) ဖြစ်ပြီး screenshot မဟုတ်ပါ။ |
+| **Type** | Placeholder repository — reserved for a future boxing-related project |
+| **What it does** | No source code yet. Purpose, stack and status are recorded as TODO items. |
+| **Tech** | Not selected yet (_to be filled in_) |
+| **Ports** | None yet |
+| **Status** | Placeholder / not started. The image in this README is an illustration, not a screenshot. |
 
-**In short (English):** A reserved placeholder repository for a future boxing-related project. No application code exists yet — the README records the intended TODO and includes a schematic placeholder image, not a screenshot.
+In short: A reserved placeholder repository for a future boxing-related project. No application code exists yet — the README records the intended TODO and includes a schematic placeholder image, not a screenshot.
 
 ## Visual guide — what the image shows
 
